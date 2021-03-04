@@ -1,0 +1,18 @@
+{
+  "name": "adonuxt",
+  "version": "0.0.0",
+  "description": "Automated website development focused on NuxtJs (frontend) and AdonisJs (backend) frameworks.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b01010110/AdoNuxt.git"
+  },
+  "keywords": ["AdoNuxt", "Nuxt", "NuxtJs", "Adonis", "AdonisJs"],
+  "author": "b01010110 <b01010110b@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b01010110/AdoNuxt/issues"
+  },
+  "homepage": "https://github.com/b01010110/AdoNuxt#readme"
+}
