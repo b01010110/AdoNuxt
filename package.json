@@ -8,11 +8,22 @@
     "type": "git",
     "url": "git+https://github.com/b01010110/AdoNuxt.git"
   },
-  "keywords": ["AdoNuxt", "Nuxt", "NuxtJs", "Adonis", "AdonisJs"],
+  "keywords": [
+    "AdoNuxt",
+    "Nuxt",
+    "NuxtJs",
+    "Adonis",
+    "AdonisJs"
+  ],
   "author": "b01010110 <b01010110b@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/b01010110/AdoNuxt/issues"
   },
-  "homepage": "https://github.com/b01010110/AdoNuxt#readme"
+  "homepage": "https://github.com/b01010110/AdoNuxt#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0"
+  }
 }
